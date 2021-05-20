@@ -1,0 +1,4 @@
+This program is for addition of two numbers:
+
+a+b= c
+10+12= 22
