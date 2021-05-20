@@ -2,3 +2,6 @@ This is subtraction
 
 
 c= a-b
+
+
+3 = 10-7
